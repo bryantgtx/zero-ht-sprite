@@ -8,6 +8,8 @@ Odd thing 2: swap the build function for the gridview version (play_hand.dart), 
 
 The rest of this file is from the original app, maybe it will help :) .
 
+Note that the image assets in this repo are public domain, with credit to [www.kenney.nl](https://opengameart.org/content/boardgame-pack).  The spritesheet is not the one that came with his assets, though, since that was not ordered to be addressable, but was made from his original card faces, so is also in the public domain.
+
 ## Setting up the development environment and first run
 Built with Flutter v2.8.1 in VSCode
 
